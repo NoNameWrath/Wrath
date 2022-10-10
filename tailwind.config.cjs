@@ -5,7 +5,10 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				geo: ['Geo', 'sans-serif']
-			}
+			},
+			backgroundImage: {
+				'hero': "url('../public/images/hero.jpg')",
+			  },
 		}
 	},
 	plugins: [require('daisyui')],
@@ -21,7 +24,7 @@ module.exports = {
 
 					neutral: '#3D85F5',
 
-					'base-100': '#FFFFFF',
+					'base-100': '#19191A',
 
 					info: '#FFFFFF',
 
