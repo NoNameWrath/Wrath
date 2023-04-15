@@ -1,5 +1,5 @@
 <body class="typewriter p-8 text-3xl">
-	<h1>Abejo Michael (Wrath-dev)</h1>
+	<h1>Abejo Michael (Wrath)</h1>
 </body>
 
 <style>
